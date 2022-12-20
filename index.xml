@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4Laboratorinis</title>
+    
+    
+    
+    <link>https://mindaugasGaidys.github.io/</link>
+    <description>Recent content on 4Laboratorinis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2022 22:18:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://mindaugasGaidys.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PirmaUzduotis</title>
+      <link>https://mindaugasGaidys.github.io/posts/pirmauzduotis/</link>
+      <pubDate>Tue, 20 Dec 2022 22:18:00 +0200</pubDate>
+      
+      <guid>https://mindaugasGaidys.github.io/posts/pirmauzduotis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          In physics, mass is a measure of the amount of matter in an object. It is typically represented by the symbol &amp;ldquo;m&amp;rdquo; and is measured in kilograms (kg). In most situations, the mass of an object is positive, meaning that it has a positive weight when placed on a scale. However, it is possible to consider the concept of negative mass, which would be an object that has a negative weight and behaves in strange and counterintuitive ways when subjected to forces.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
